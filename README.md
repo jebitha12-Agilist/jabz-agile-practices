@@ -1,51 +1,70 @@
-# jabz-agile-practices
-Executive dashboards, Agile maturity artifacts, and Scrum practices.
-# Scrum Master Portfolio – Jebitha
+# Jebitha J – Agile Practices Portfolio 🌀
 
-## 👋 About Me
-Senior Scrum Master | SAFe Agilist | Executive Dashboard Designer  
-Driving Agile transformation and automation initiatives across distributed teams.
+## 🎯 Overview
+This repository showcases my work as a **Senior Scrum Master & SAFe Agilist**, combining **Agile coaching, facilitation, dashboards, metrics, and automation**.  
+It serves as a living portfolio of practical tools, case studies, and playbooks that highlight my approach to **predictability, reliability, and stakeholder satisfaction**.
 
 ---
 
-## 🚀 My Role as a Scrum Master
-- Facilitate Agile ceremonies (Sprint Planning, Daily Stand‑ups, Reviews, Retrospectives).
-- Coach teams on Agile values, self‑organization, and continuous improvement.
-- Remove impediments and manage cross‑team dependencies.
-- Collaborate with Product Owners to refine backlogs and align delivery with business goals.
-- Enable transparency with Jira dashboards, PI metrics, and executive reporting.
+## 📂 Repository Structure
+
+### 1. Case Studies
+Real-world applications of Scrum and SAFe practices.
+- [`Agile_Transformation.md`](CaseStudies/Agile_Transformation.md)  
+- [`UAT_Facilitation.md`](CaseStudies/UAT_Facilitation.md)  
+- [`Jira_AI_Agent.md`](CaseStudies/Jira_AI_Agent.md)  
+- [`Stakeholder_Engagement.md`](CaseStudies/Stakeholder_Engagement.md)  
 
 ---
 
-## 📊 Portfolio Highlights
-### Executive Dashboards
-- Designed **Program Increment (PI) dashboards** with clean enterprise UI and structured analytics.
-- Metrics tracked: PI Progress, Flow Velocity, Team Capacity, Blocked Issues.
-- Delivered measurable outcomes with stakeholder visibility.
-
-### Agile Maturity
-- Applied **Agile Maturity Matrix** to assess team growth.
-- Coached teams from “In Transition” to “Sustainable” maturity levels.
-- Improved sprint predictability by 25% through dependency management.
-
-### Automation & RPA
-- Leveraged tools like **UiPath, Automation Anywhere, Blue Prism** to streamline workflows.
-- Integrated Jira JQL queries for automated reporting and scope creep management.
+### 2. Dashboards
+Executive-ready visuals for transparency and predictability.
+- [`Executive_PI_Dashboard.md`](Dashboards/Executive_PI_Dashboard.md)  
+- [`Sprint_Health_Report.md`](Dashboards/Sprint_Health_Report.md)  
 
 ---
 
-## 📂 Repository Contents
-- **Dashboards/** → Sample PI dashboards and Jira reports.
-- **Templates/** → Retrospective formats, stakeholder briefing outlines, UAT readiness checklists.
-- **CaseStudies/** → Real‑world examples of Agile transformation and measurable outcomes.
-- **Automation/** → Scripts and documentation for Agile workflow automation.
+### 3. Templates
+Reusable facilitation and delivery templates.
+- [`Retrospective_Template.md`](Templates/Retrospective_Template.md)  
+- [`Daily_Scrum_Checklist.md`](Templates/Daily_Scrum_Checklist.md)  
+- [`Backlog_Refinement_Checklist.md`](Templates/Backlog_Refinement_Checklist.md)  
+- [`UAT_Readiness_Checklist.md`](Templates/UAT_Readiness_Checklist.md)  
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jebitha-j12)  
-- [GitHub](https://github.com/jebitha12-Agilist)
+### 4. Metrics
+Tools for measuring Agile maturity and estimation discipline.
+- [`Agile_Maturity_Matrix.md`](Metrics/Agile_Maturity_Matrix.md)  
+- [`Story_Point_Calculator.md`](Metrics/Story_Point_Calculator.md)  
 
 ---
 
-✨ *This repository is a showcase of my Agile leadership, coaching, and delivery impact.*
+### 5. Playbooks
+Guides for scaling Agile and building high-performance culture.
+- [`Agile_Strategic_Roadmap.md`](Playbooks/Agile_Strategic_Roadmap.md)  
+- [`Scrum_Ceremonies_Guide.md`](Playbooks/Scrum_Ceremonies_Guide.md)  
+- [`Impediment_Removal_Strategy.md`](Playbooks/Impediment_Removal_Strategy.md)  
+- [`Scaling_SAFe_Practices.md`](Playbooks/Scaling_SAFe_Practices.md)  
+
+---
+
+### 6. Facilitation
+Creative retrospective formats and engagement decks.
+- [`The_Siege_of_Sprint.md`](Facilitation/The_Siege_of_Sprint.md)  
+- [`Battery_Level_Check.md`](Facilitation/Battery_Level_Check.md)  
+
+---
+
+## 🌟 Key Takeaway
+This portfolio demonstrates my ability to:
+- **Coach teams** with practical templates and facilitation techniques.  
+- **Measure outcomes** using dashboards and metrics.  
+- **Engage stakeholders** with tailored communication strategies.  
+- **Drive transformation** from traditional workflows to AI-driven Agile practices.  
+
+---
+
+## 🔗 Connect
+- 📧 Email: [jebitha12@gmail.com](mailto:jebitha12@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/jebitha-j12](https://www.linkedin.com/in/jebitha-j12)  
