@@ -1,7 +1,7 @@
 # Jebitha J – Agile Practices Portfolio 🌀
 
 ## 🎯 Overview
-This repository showcases my work as a **Senior Scrum Master & SAFe Agilist**, combining **Agile coaching, facilitation, dashboards, metrics, and automation**.  
+This repository showcases my work as a **Senior Scrum Master & SAFe® Agilist**, combining **Agile coaching, facilitation, dashboards, metrics, and automation**.  
 It serves as a living portfolio of practical tools, case studies, and playbooks that highlight my approach to **predictability, reliability, and stakeholder satisfaction**.
 
 ---
@@ -50,9 +50,11 @@ Guides for scaling Agile and building high-performance culture.
 ---
 
 ### 6. Facilitation
-Creative retrospective formats and engagement decks.
+Creative retrospective formats and icebreakers.
 - [`The_Siege_of_Sprint.md`](Facilitation/The_Siege_of_Sprint.md)  
 - [`Battery_Level_Check.md`](Facilitation/Battery_Level_Check.md)  
+- [`Emoji_CheckIn.md`](Facilitation/Emoji_CheckIn.md)  
+- [`README.md`](Facilitation/README.md) → Overview of facilitation formats  
 
 ---
 
@@ -67,4 +69,4 @@ This portfolio demonstrates my ability to:
 
 ## 🔗 Connect
 - 📧 Email: [jebitha12@gmail.com](mailto:jebitha12@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/jebitha-j12](https://www.linkedin.com/in/jebitha-j12)  
+- 🔗 LinkedIn: [linkedin.com/in/jebitha-j12](https://www.linkedin.com/in/jebitha-j12)
